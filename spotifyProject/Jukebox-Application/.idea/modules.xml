@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Jukebox-Application.iml" filepath="$PROJECT_DIR$/.idea/Jukebox-Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/jta/jta.iml" filepath="$PROJECT_DIR$/spotify/jta/jta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/jukebox/jukebox.iml" filepath="$PROJECT_DIR$/spotify/jukebox/jukebox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify/spotify.iml" filepath="$PROJECT_DIR$/spotify/spotify.iml" />
+    </modules>
+  </component>
+</project>
